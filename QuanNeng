@@ -3,3 +3,8 @@
 ^https?:/\/(cn|www)\.pornhub\.com\/($|(view|video).*$) url script-response-body https://github.com/ddgksf2013/Scripts/raw/master/pornhub.js
 
 hostname = *.pornhub.com
+
+# 海角
+^https?:\/\/(10play|120play)\.longyuandingyi\.com\/\w{3,10}\/\w{32}\/\w{32}\.m3u8\?auth_key=[\w\-]{30,50}$ url script-request-header https://raw.githubusercontent.com/89996462/Quantumult-X/main/ghs/hjsq.js
+
+hostname = *fuhuida*,*riyufanyi*
