@@ -1,0 +1,5 @@
+# ChatGPT 解锁 Plus 订阅
+
+^https?:\/\/ios\.chat\.openai\.com\/backend-api\/(accounts\/check\/|models) url script-response-body https://github.com/thebestkyle323/Quantumult-x/blob/main/ChatGPTPlusCrack.js
+
+hostname = ios.chat.openai.com
