@@ -1,0 +1,5 @@
+# 小睡眠
+
+^https?:\/\/snailsleep\.net\/snail\/v\d\/profile\/get.+ url script-response-body https://raw.githubusercontent.com/thebestkyle323/Quantumult-x/main/xiaoshuimian.js
+
+hostname = snailsleep.net
