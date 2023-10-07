@@ -1,1 +1,4 @@
+# 夸克解锁
+https?:\/\/drive.*\.quark\.cn\/.+\/clouddrive\/(member.+|distribute\/detail.+|capacity\/growth\/info) url script-response-body https://raw.githubusercontent.com/thebestkyle323/Quantumult-x/main/kuake.js
 
+hostname = drive*.quark.cn
