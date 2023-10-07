@@ -1,5 +1,5 @@
 
 # 海角
-^https?:\/\/(10play|120play)\.longyuandingyi\.com\/\w{3,10}\/\w{32}\/\w{32}\.m3u8\?auth_key=[\w\-]{30,50}$ url script-request-header https://raw.githubusercontent.com/89996462/Quantumult-X/main/ghs/hjsq.js
+hostname = *hj*,*haijiao*
 
-hostname = *fuhuida*,*riyufanyi*
+^http[s]?:\/\/.*(haijiao|hj).+api\/(topic.+\d+|attachment|login\/signin|user\/(current|info\/\d+)|banner\/banner_list)$ url script-response-body https://raw.githubusercontent.com/Yuheng0101/X/main/Scripts/haijiao.js
